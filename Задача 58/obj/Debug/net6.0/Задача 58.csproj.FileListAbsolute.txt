@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\bin\Debug\net6.0\Задача 58.exe
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\bin\Debug\net6.0\Задача 58.deps.json
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\bin\Debug\net6.0\Задача 58.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\bin\Debug\net6.0\Задача 58.dll
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\bin\Debug\net6.0\Задача 58.pdb
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\obj\Debug\net6.0\Задача 58.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\obj\Debug\net6.0\Задача 58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\obj\Debug\net6.0\Задача 58.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\obj\Debug\net6.0\Задача 58.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\obj\Debug\net6.0\Задача 58.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\obj\Debug\net6.0\Задача 58.dll
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\obj\Debug\net6.0\refint\Задача 58.dll
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\obj\Debug\net6.0\Задача 58.pdb
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\obj\Debug\net6.0\Задача 58.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\C#_DZ\C#_DZ_8\Задача 58\obj\Debug\net6.0\ref\Задача 58.dll
